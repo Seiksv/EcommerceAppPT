@@ -57,6 +57,16 @@ Para iniciar sesión en la aplicación, utiliza las siguientes credenciales:
 - **Usuario:** kate_h
 - **Contraseña:** kfejk@\*\_
 
-```
 
-```
+##Capturas del proyecto
+
+![image](https://github.com/user-attachments/assets/b2ed6532-b24b-4756-bec4-bdb705f34dc5)
+
+![image](https://github.com/user-attachments/assets/672ada6f-6f1e-4470-aeca-f4d6d55d845e)
+
+![image](https://github.com/user-attachments/assets/178f9b20-c960-490a-aa24-2baa7c0f498c)
+
+![image](https://github.com/user-attachments/assets/f8a9fd07-75ad-4029-98cc-a18fe293a3dc)
+
+![image](https://github.com/user-attachments/assets/9bfb15b4-b194-4c12-9e59-527226419fb5)
+
